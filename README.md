@@ -7,7 +7,7 @@
   seek new challanges so that I can improve and expand my knowledge and skills. My goal is to grow as a person and as profession everyday.
 - 🌱 I'm currently Learning on setting up infra using Terraform over AWS.
 - 💞️ Ask and discuss with me about Linux, Cloud Services, Terraform, Docker and Kuberntes.
-- 📫 You can reach to me over Linkedin profile (https://www.linkedin.com/in/gaurav-kumar-30431084/)
+- 📫 You can reach out to me over Linkedin (https://www.linkedin.com/in/gaurav-kumar-30431084/)
 
 # Some of the projects I have worked on recently
 - Github project for taxi-booking application in three different environment (DEV,UAT,PROD).
