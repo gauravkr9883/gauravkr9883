@@ -9,10 +9,11 @@
 - 📫 You can reach out to me over Linkedin (https://www.linkedin.com/in/gaurav-kumar-30431084/)
 
 # Some of the projects I have worked on recently
+- Recently Worked on EKS cluster and best practices to make it highly available and fault tolerance.
 - Github project for taxi-booking application in three different environment (DEV,UAT,PROD).
 - Terraform templates for setting up infrastructure over AWS - Github.
-- Automate Build, Test & Deploy task using CI/CD pipeline (Jenkins). I also Learned more about Maven and Gradle tool use to build java application pacakge. Later I was able to integerate other tools like GitHub, Maven, SonarQube with Jenkins and automate the tasks.
-- Recently I have started learning setting up infra with terraform over GCP.
+- Automate Build, Test & Deploy task using CI/CD pipeline (Jenkins).
+- Recently I have started learning setting up infra with terraform over AWS.
 
 # Some of the Certification I hold
 - Red Hat Certified Engineer (RHCE).
