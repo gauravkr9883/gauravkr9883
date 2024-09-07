@@ -3,7 +3,7 @@
 {{Glad to see you here👋}}
 
 - 👋 Hi, I'm Gaurav and currently working in Rackspace Technology as Linux Support Engineer.
-- 💼 Working in IT with close to 8 years of experience in managing and building infrastructure at large scale.  I am a commited individual with a passion for technologies like Linux, Docker & Kuberntes and Cloud computing. I always seek new challanges so that I can improve and expand my knowledge and skills. My goal is to grow as a person and as profession everyday.
+- 💼 Working in IT with close to 10 years of experience in managing and building infrastructure at large scale.  I am a commited individual with a passion for technologies like Linux, Docker & Kuberntes and Cloud computing. I always seek new challanges so that I can improve and expand my knowledge and skills. My goal is to grow as a person and as profession everyday.
 - 🌱 Recently I have gained knowledge about setting up an infra using Terraform over AWS.
 - 💞️ Ask and discuss with me about Linux, Cloud Services, Terraform, Docker and Kuberntes.
 - 📫 You can reach out to me over Linkedin (https://www.linkedin.com/in/gaurav-kumar-30431084/)
